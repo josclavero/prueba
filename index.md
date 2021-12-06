@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/josclavero/prueba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josclavero/prueba/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="app/index.html">app</a><br>
+<a href="CASA-VICENTE-LAS-PENAS-ALCAUCIN/index.html">CASA-VICENTE-LAS-PENAS-ALCAUCIN</a><br>
+<a href="GYM-Inmobiliaria-Casa-Piscina-Benalmadena/index.html">GYM-Inmobiliaria-Casa-Piscina-Benalmadena</a><br>
+<a href="hellosun-casa-blanca/index.html">hellosun-casa-blanca</a><br>
+<a href="HELLOSUN-Lilas-14/index.html">HELLOSUN-Lilas-14</a><br>
+<a href="Jose-Clavero-Foto-Mar_Real-Estate-El-Candado/index.html">Jose-Clavero-Foto-Mar_Real-Estate-El-Candado</a><br>
+<a href="Villa-Marina/index.html">Villa-Marina</a><br>
